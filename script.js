@@ -7,4 +7,4 @@ function changeColor() {
 	index = (index + 1) % colors.length;
 }
 
-setInterval(changeColor, 2000);
+setInterval(changeColor, 1000);
